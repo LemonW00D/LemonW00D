@@ -4,6 +4,8 @@
 
 De formation scientifique (neurosciences) j'ai effectué une reconversion professionnelle dans l'informatique. Je me suis tourné vers le web-développement Front-End. Les technologies que j'utilise sont HTML, CSS, Sass, Bootstrap, JavaScript, jQuery et Vue.js. Vous découvrirez sur mon profil les projets sur lesquels j'ai fconstruit mon apprentissage ainsi que des projets clients. 
 
+# Je suis actuellement en recherche active d'emploi sur Bordeaux (Dév Front-End JS / Vue.js).
+
 ## Découvrez en plus sur moi 🌎: <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/LemonW00D/LemonW00D/master/images/love-web.png">
 - Suivez ce lien pour aller sur <a href="https://www.arnaud-tessier.com" target = "_blank">mon site web perso</a> 💻
 - Retrouvez mon parcours professionnel sur <a href="https://www.linkedin.com/in/arnaud-tessier-a9732b63" target = "_blank"> LinkedIn</a> 👨‍🎓
@@ -11,8 +13,8 @@ De formation scientifique (neurosciences) j'ai effectué une reconversion profes
 
 ### En bref:
 
+- 👯 I’m looking for a job in Bordeaux, France.
 - 🔭 I’m currently working on Vue.js.
 - 🌱 I’m currently learning TypeScript.
-- 👯 I’m looking for a job in Bordeaux, France.
 - 💬 Ask me about anything.
 - 📫 How to reach me: personnal website, mail, LinkedIn...
