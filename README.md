@@ -18,6 +18,6 @@ De formation scientifique (neurosciences) j'ai effectué une reconversion profes
 
 - 👯 I’m looking for a job in Bordeaux, France.
 - 🔭 I’m currently working on Vue.js.
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning WordPress.
 - 💬 Ask me about anything.
 - 📫 How to reach me: personnal website, mail, LinkedIn...
