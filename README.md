@@ -10,7 +10,7 @@ De formation scientifique (neurosciences) j'ai effectué une reconversion profes
 
 
 ## Découvrez en plus sur moi 🌎: <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/LemonW00D/LemonW00D/master/images/love-web.png">
-- Suivez ce lien pour aller sur <a href="https://www.arnaud-tessier.com" target = "_blank">mon site web perso</a> 💻
+- Suivez ce lien pour aller sur <a href="https://www.arnaud-tessier.fr" target = "_blank">mon site web perso</a> 💻
 - Retrouvez mon parcours professionnel sur <a href="https://www.linkedin.com/in/arnaud-tessier-a9732b63" target = "_blank"> LinkedIn</a> 👨‍🎓
 - Si mon parcours de chercheur en neurosciences vous intéresse, retrouvez mes publications sur <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-5758-5693" target = "_blank" href="https://orcid.org/0000-0001-5758-5693" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ce lien</a> 💼</div> 
 
