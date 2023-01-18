@@ -2,10 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/LemonW00D/LemonW00D/master/header.png" alt="header-banner -Arnaud TESSIER - développeur front-end: javascript / vue.js">
 
-De formation scientifique (neurosciences) j'ai effectué une reconversion professionnelle dans l'informatique. Je me suis tourné vers le web-développement Front-End. Les technologies que j'utilise sont HTML, CSS, Sass, Bootstrap, JavaScript, jQuery et Vue.js. Vous découvrirez sur mon profil les projets sur lesquels j'ai fconstruit mon apprentissage ainsi que des projets clients. 
+De formation scientifique (neurosciences) j'ai effectué une double compétence dans l'informatique. Je me suis tourné vers le web-développement Front-End. Les technologies que j'utilise sont HTML, CSS, Sass, Bootstrap, JavaScript, jQuery et Vue.js. Vous découvrirez sur mon profil les projets sur lesquels j'ai fconstruit mon apprentissage ainsi que des projets clients. 
 
 # 
-# Je suis actuellement en recherche active d'emploi sur Bordeaux (Dév Front-End JS / Vue.js).
 
 
 
@@ -16,7 +15,6 @@ De formation scientifique (neurosciences) j'ai effectué une reconversion profes
 
 ### In few words:
 
-- 👯 I’m looking for a job in Bordeaux, France.
 - 🔭 I’m currently working on Vue.js.
 - 🌱 I’m currently learning WordPress.
 - 💬 Ask me about anything.
